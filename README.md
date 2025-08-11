@@ -1,3 +1,7 @@
+<img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/a1b362dd-b07a-4a95-be19-b97ddad98c5e" />
+<img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/0728b4f0-f51b-4595-b9fb-01ae06bf6822" />
+
+
 **Overview**
 
 This project is a Verilog-based **Traffic Light Controller** designed using **Finite State Machine (FSM)** principles to manage traffic flow at a two-way intersection. The system controls signal transitions (Red, Yellow, Green) for the main and side roads based on predefined timing cycles. The design is simulated and verified using **EDA Playground**.
